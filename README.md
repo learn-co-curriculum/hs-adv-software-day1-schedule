@@ -6,7 +6,7 @@ type: schedule
 ---
 
 ##Schedule
-This is just a suggested schedule. Improv probably won't take up a full half hour and lunch can be cut down if more time is needed for teaching.
+This is just a suggested schedule. Improv shouldn't take up a full half hour and lunch can be cut down if more time is needed for lectures/labs/projects.
 
 ###Day 1 - Sinatra + MVC
 9 - 10 Welcome and Intros
